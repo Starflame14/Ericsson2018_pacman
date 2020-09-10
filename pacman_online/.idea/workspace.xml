@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dab2758c-6908-4efe-a8ec-1026f167e44d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+              <folding>
+                <element signature="class#Reader#0" />
+                <element signature="method#main#0;class#MainClass#0" />
+                <element signature="method#log#0;class#MainClass#0" />
+                <element signature="method#getMemoryMB#0;class#MainClass#0" />
+                <element signature="method#getRandom#0;class#Directions#0" />
+                <element signature="method#getOppositeDirection#0;class#Directions#0" />
+                <element signature="method#getBestDirection#0;class#Directions#0" />
+                <element signature="method#getDeltaPosByDirection#0;class#Directions#0" />
+                <element signature="method#getPositionByDirection#0;class#Directions#0" />
+                <element signature="method#getIndexByDirection#0;class#Directions#0" />
+                <element signature="method#toString#0;class#Pacman#0" />
+                <element signature="method#wallCount#0;class#Pacman#0" />
+                <element signature="method#wallCount#0;class#Ghost#0" />
+                <element signature="e#24484#24485#0" expanded="true" />
+                <element signature="e#24520#24521#0" expanded="true" />
+                <element signature="method#equals#0;class#Position#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>system.err</find>
+      <find>Sys</find>
+      <find>setcre</find>
+      <find>return</find>
+      <find>//system.err</find>
+      <find>badpos</find>
+      <find>dead_end</find>
+      <find>dead_end_</find>
+      <find>badpo</find>
+      <find>time</find>
+      <find>dead_end_r</find>
+      <find>setOb</find>
+      <find>isThereEnergizer</find>
+      <find>//</find>
+      <find>log</find>
+      <find>setup</find>
+      <find>pacmanBot.cal</find>
+      <find>energizer</find>
+      <find>+=</find>
+      <find>-=</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1296" />
+    <option name="height" value="816" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pacman2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pacman2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pacman2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pacman2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pacman2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pacman2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pacman2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pacman2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543689433052" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pacman" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="pacman2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dab2758c-6908-4efe-a8ec-1026f167e44d" name="Default Changelist" comment="" />
+      <created>1543305884171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543305884171</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17408907" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Floobits" order="10" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="1938" column="23" selection-start-line="1938" selection-start-column="23" selection-end-line="1938" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding>
+            <element signature="class#Reader#0" />
+            <element signature="method#main#0;class#MainClass#0" />
+            <element signature="method#log#0;class#MainClass#0" />
+            <element signature="method#getMemoryMB#0;class#MainClass#0" />
+            <element signature="method#getRandom#0;class#Directions#0" />
+            <element signature="method#getOppositeDirection#0;class#Directions#0" />
+            <element signature="method#getBestDirection#0;class#Directions#0" />
+            <element signature="method#getDeltaPosByDirection#0;class#Directions#0" />
+            <element signature="method#getPositionByDirection#0;class#Directions#0" />
+            <element signature="method#getIndexByDirection#0;class#Directions#0" />
+            <element signature="method#toString#0;class#Pacman#0" />
+            <element signature="method#wallCount#0;class#Pacman#0" />
+            <element signature="method#wallCount#0;class#Ghost#0" />
+            <element signature="e#24484#24485#0" expanded="true" />
+            <element signature="e#24520#24521#0" expanded="true" />
+            <element signature="method#equals#0;class#Position#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
